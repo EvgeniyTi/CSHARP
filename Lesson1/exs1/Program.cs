@@ -1,5 +1,5 @@
-﻿int number1 = -9;
-int number2 = -3;
+﻿int number1 = -6;
+int number2 = -7;
 
 if (number1 > number2)
 {
