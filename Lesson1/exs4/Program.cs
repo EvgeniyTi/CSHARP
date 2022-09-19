@@ -1,6 +1,6 @@
-﻿int n = 5;
+﻿int num = int.Parse(Console.ReadLine());
 
-for (int i = 1; i <= n; i++)
+for (int i = 1; i <= num; i++)
 {
     if (i % 2 == 0)
     {

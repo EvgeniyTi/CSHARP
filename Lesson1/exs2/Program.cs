@@ -1,6 +1,6 @@
-﻿int num1 = 22;
-int num2 = 3;
-int num3 = 9;
+﻿int num1 = int.Parse(Console.ReadLine());
+int number2 = int.Parse(Console.ReadLine());
+int num3 = int.Parse(Console.ReadLine());
 int max = num1;
 
 if (num2 >= max && num2 >= num3)
